@@ -1,0 +1,28 @@
+{
+  "name": "linux_server",
+  "version": "1.0.0",
+  "description": "for linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessguo/linux_demo.git"
+  },
+  "keywords": [
+    "cnpm",
+    "i",
+    "express",
+    "--save"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessguo/linux_demo/issues"
+  },
+  "homepage": "https://github.com/jessguo/linux_demo#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
